@@ -1,0 +1,14 @@
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Entidades.dll.config
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Entidades.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Entidades.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\EntityFramework.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\bin\Debug\Microsoft.Exchange.WebServices.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\obj\Debug\Entidades.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\obj\Debug\Entidades.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

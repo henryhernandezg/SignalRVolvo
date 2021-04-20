@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{41DC0251-CA81-4FE1-8A77-234A47E359CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcesosMasivos", "ProcesosMasivos\ProcesosMasivos\ProcesosMasivos.csproj", "{8C13D7C1-1CA4-4EA8-B9CC-B108C3CDBE37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SignalVolvo", "SignalVolvo", "{A3ADC072-F90F-49B4-AD02-2C6FB5EDAE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSignalVolvo", "ClientSignalVolvo\ClientSignalVolvo.csproj", "{92650424-1065-49F6-AECE-5B1307DF52BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppNetCore", "ConsoleAppNetCore\ConsoleAppNetCore.csproj", "{1AA5E25A-110D-4DA1-B43C-104F852094C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionLoadMessageServiceBus", "FunctionLoadMessageServiceBus\FunctionLoadMessageServiceBus.csproj", "{4689E862-3A85-49C6-965E-AF95389E6024}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServicioRobotMSA", "ServicioRobotMSA", "{AFEC5E38-B8FF-44F1-8974-0B0F274617CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioRobotMSA", "ServicioRobotMSA\ServicioRobotMSA.csproj", "{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaServicioRoborMSA", "PruebaServicioRoborMSA\PruebaServicioRoborMSA.csproj", "{67072440-9CFD-4EDD-824F-97A3B67DEAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41DC0251-CA81-4FE1-8A77-234A47E359CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DC0251-CA81-4FE1-8A77-234A47E359CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DC0251-CA81-4FE1-8A77-234A47E359CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DC0251-CA81-4FE1-8A77-234A47E359CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C13D7C1-1CA4-4EA8-B9CC-B108C3CDBE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C13D7C1-1CA4-4EA8-B9CC-B108C3CDBE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C13D7C1-1CA4-4EA8-B9CC-B108C3CDBE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C13D7C1-1CA4-4EA8-B9CC-B108C3CDBE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92650424-1065-49F6-AECE-5B1307DF52BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92650424-1065-49F6-AECE-5B1307DF52BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92650424-1065-49F6-AECE-5B1307DF52BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92650424-1065-49F6-AECE-5B1307DF52BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA5E25A-110D-4DA1-B43C-104F852094C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA5E25A-110D-4DA1-B43C-104F852094C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA5E25A-110D-4DA1-B43C-104F852094C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA5E25A-110D-4DA1-B43C-104F852094C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4689E862-3A85-49C6-965E-AF95389E6024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4689E862-3A85-49C6-965E-AF95389E6024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4689E862-3A85-49C6-965E-AF95389E6024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4689E862-3A85-49C6-965E-AF95389E6024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67072440-9CFD-4EDD-824F-97A3B67DEAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67072440-9CFD-4EDD-824F-97A3B67DEAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67072440-9CFD-4EDD-824F-97A3B67DEAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67072440-9CFD-4EDD-824F-97A3B67DEAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92650424-1065-49F6-AECE-5B1307DF52BF} = {A3ADC072-F90F-49B4-AD02-2C6FB5EDAE09}
+		{4CB70E1E-63D1-4D8E-8A00-2CAA3FA6252B} = {A3ADC072-F90F-49B4-AD02-2C6FB5EDAE09}
+		{1AA5E25A-110D-4DA1-B43C-104F852094C9} = {A3ADC072-F90F-49B4-AD02-2C6FB5EDAE09}
+		{4689E862-3A85-49C6-965E-AF95389E6024} = {A3ADC072-F90F-49B4-AD02-2C6FB5EDAE09}
+		{4FA660D7-1BEE-45ED-B8DD-77C21092CBD9} = {AFEC5E38-B8FF-44F1-8974-0B0F274617CF}
+		{67072440-9CFD-4EDD-824F-97A3B67DEAF7} = {AFEC5E38-B8FF-44F1-8974-0B0F274617CF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CA9F34-F84B-4473-A78F-321D359DAD4E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://52.177.135.39:8080/tfs/mectronics
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Entidades\\Entidades.csproj
+		SccProjectName1 = Entidades
+		SccLocalPath1 = Entidades
+		SccProjectUniqueName2 = ProcesosMasivos\\ProcesosMasivos\\ProcesosMasivos.csproj
+		SccProjectName2 = ProcesosMasivos/ProcesosMasivos
+		SccLocalPath2 = ProcesosMasivos\\ProcesosMasivos
+		SccProjectUniqueName3 = ClientSignalVolvo\\ClientSignalVolvo.csproj
+		SccProjectTopLevelParentUniqueName3 = ProcesosMasivos.sln
+		SccProjectName3 = ClientSignalVolvo
+		SccLocalPath3 = ClientSignalVolvo
+		SccProjectUniqueName4 = ConsoleAppTest\\ConsoleAppTest.csproj
+		SccProjectTopLevelParentUniqueName4 = ProcesosMasivos.sln
+		SccProjectName4 = ConsoleAppTest
+		SccLocalPath4 = ConsoleAppTest
+		SccProjectUniqueName5 = ConsoleAppNetCore\\ConsoleAppNetCore.csproj
+		SccProjectTopLevelParentUniqueName5 = ProcesosMasivos.sln
+		SccProjectName5 = ConsoleAppNetCore
+		SccLocalPath5 = ConsoleAppNetCore
+		SccProjectUniqueName6 = FunctionLoadMessageServiceBus\\FunctionLoadMessageServiceBus.csproj
+		SccProjectTopLevelParentUniqueName6 = ProcesosMasivos.sln
+		SccProjectName6 = FunctionLoadMessageServiceBus
+		SccLocalPath6 = FunctionLoadMessageServiceBus
+		SccProjectUniqueName7 = ServicioRobotMSA\\ServicioRobotMSA.csproj
+		SccProjectTopLevelParentUniqueName7 = ProcesosMasivos.sln
+		SccProjectName7 = ServicioRobotMSA
+		SccLocalPath7 = ServicioRobotMSA
+		SccProjectUniqueName8 = PruebaServicioRoborMSA\\PruebaServicioRoborMSA.csproj
+		SccProjectTopLevelParentUniqueName8 = ProcesosMasivos.sln
+		SccProjectName8 = PruebaServicioRoborMSA
+		SccLocalPath8 = PruebaServicioRoborMSA
+	EndGlobalSection
+EndGlobal

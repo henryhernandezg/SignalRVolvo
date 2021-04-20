@@ -1,0 +1,17 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.7",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "Endpoint=sb://servicebusdesarrollomsa.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KlYccZLZP2jYVFU84eJcIniDq4s6R41Tpi7rC63TfJc=",
+      "topicName": "recepcionvolvomsadesarrollo",
+      "subscriptionName": "suscripcionVolvoMsaDesarrollo",
+      "isSessionsEnabled": false,
+      "name": "mySbMsg"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/FunctionLoadMessageServiceBus.dll",
+  "entryPoint": "FunctionLoadMessageServiceBus.FunctionSaveToCosmosDB.Run"
+}

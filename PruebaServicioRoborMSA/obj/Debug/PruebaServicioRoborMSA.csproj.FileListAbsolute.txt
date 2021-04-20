@@ -1,0 +1,13 @@
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\PruebaServicioRoborMSA.exe.config
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\PruebaServicioRoborMSA.exe
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\PruebaServicioRoborMSA.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\Newtonsoft.Json.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\ServicioRobotMSA.exe
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\ServicioRobotMSA.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\ServicioRobotMSA.exe.config
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\bin\Debug\Newtonsoft.Json.xml
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\obj\Debug\PruebaServicioRoborMSA.csprojAssemblyReference.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\obj\Debug\PruebaServicioRoborMSA.csproj.CoreCompileInputs.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\obj\Debug\PruebaServicioRoborMSA.csproj.CopyComplete
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\obj\Debug\PruebaServicioRoborMSA.exe
+D:\ProcesosMasivos\ProcesosMasivos_Main\PruebaServicioRoborMSA\obj\Debug\PruebaServicioRoborMSA.pdb

@@ -1,0 +1,12 @@
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.csprojAssemblyReference.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.csproj.GenerateResource.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.csproj.CoreCompileInputs.cache
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\bin\Debug\ServicioRobotMSA.exe.config
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\bin\Debug\ServicioRobotMSA.exe
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\bin\Debug\ServicioRobotMSA.pdb
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\bin\Debug\Newtonsoft.Json.dll
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\bin\Debug\Newtonsoft.Json.xml
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.ServiceServicioRobotMSA.resources
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.csproj.CopyComplete
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.exe
+D:\ProcesosMasivos\ProcesosMasivos_Main\ServicioRobotMSA\obj\Debug\ServicioRobotMSA.pdb
